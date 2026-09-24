@@ -1,0 +1,11 @@
+variable,label_ja,label_en,unit_ja
+StudentID,学生ID,Student ID,―
+LifeSatisfaction,生活満足度,Life satisfaction,0〜10点（10が最も満足）
+StudyHours,学習時間,Study hours,1週間あたりの時間（授業以外）
+AttendanceRate,出席率,Attendance rate,％
+FriendCount,友人数,Number of friends,人
+SleepHours,睡眠時間,Sleep hours,1日あたりの平均時間
+ExerciseHours,運動時間,Exercise hours,1週間あたりの時間
+MentalStress,ストレス度,Mental stress,1〜10点（10が最も強い）
+InternetUse,ネット利用時間,Internet use,1日あたりの時間（学習以外）
+PartTimeHours,アルバイト時間,Part-time work hours,1週間あたりの時間

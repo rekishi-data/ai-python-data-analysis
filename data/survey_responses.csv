@@ -1,0 +1,301 @@
+respondent_id,gender,age_group,q01,q02,q03,q04,q05,q06,q07,q08,q09,q10,q11,q12,satisfaction,comment_ja,comment_en
+R001,female,40s,4,3,2,3,3,3,4,4,3,2,2,2,5,,
+R002,male,20s,2,2,3,3,3,2,2,3,4,4,4,3,4,環境に配慮した素材を増やしてほしいです。,Please use more eco-friendly materials.
+R003,female,10s,3,5,3,4,4,4,2,1,2,3,3,2,2,他にない個性的なデザインが好きです。セールの情報をメールで知りたいです。,I like the unique designs you can't find elsewhere. I want to get sale announcements by email.
+R004,female,30s,3,3,2,1,3,2,3,4,4,3,2,2,4,セールの情報をメールで知りたいです。,I want to get sale announcements by email.
+R005,female,20s,1,2,3,2,4,3,5,3,3,3,4,3,4,サイズ表をもっと詳しくしてほしいです。価格が高めなので買うのを迷います。,"Please make the size chart more detailed. The prices are a bit high, so I hesitate to buy."
+R006,male,20s,3,3,3,5,3,4,5,5,5,2,2,4,4,リサイクルの取り組みがあると嬉しいです。価格が高めなので買うのを迷います。,"A recycling program would be nice. The prices are a bit high, so I hesitate to buy."
+R007,male,30s,2,2,2,3,3,3,4,2,3,2,4,3,4,セールをもっと頻繁にしてほしいです。,I'd like more frequent sales.
+R008,female,20s,4,5,3,3,4,3,5,4,4,3,3,2,4,,
+R009,male,30s,4,4,4,1,3,2,4,4,3,4,4,3,4,価格が高めなので買うのを迷います。,"The prices are a bit high, so I hesitate to buy."
+R010,female,10s,5,5,5,4,4,5,2,1,3,2,3,3,1,セールの情報をメールで知りたいです。サイズ感が分かりにくいです。,I want to get sale announcements by email. It's hard to tell how the sizes fit.
+R011,male,20s,3,4,4,3,2,4,3,5,4,3,4,4,3,,
+R012,male,40s,1,4,1,2,1,4,5,5,4,3,2,2,4,過剰な包装を減らしてほしいです。生地がしっかりしていて長く着られます。,Please reduce excessive packaging. The fabric is sturdy and lasts a long time.
+R013,male,30s,3,4,4,2,3,3,3,3,2,3,2,2,3,送料無料の金額をもう少し下げてほしいです。,Please lower the minimum order for free shipping.
+R014,male,50+,4,4,3,3,3,3,4,5,4,4,3,3,3,リサイクルの取り組みがあると嬉しいです。配送が早くて助かりました。,"A recycling program would be nice. Delivery was fast, which was helpful."
+R015,female,40s,1,1,2,3,3,2,3,5,5,4,3,4,5,環境に配慮した素材を増やしてほしいです。,Please use more eco-friendly materials.
+R016,male,20s,4,3,4,5,3,3,4,4,2,3,4,2,3,クーポンがあると嬉しいです。,Coupons would be nice.
+R017,female,20s,3,5,4,2,3,3,3,4,4,3,3,2,4,リサイクルの取り組みがあると嬉しいです。返品の手続きが簡単で安心です。,"A recycling program would be nice. Returns are easy, which is reassuring."
+R018,female,30s,2,3,4,2,1,2,4,5,4,2,2,2,4,サイトが見やすくて買いやすいです。,The website is easy to browse and shop on.
+R019,female,10s,3,2,3,4,2,4,1,1,1,3,3,4,2,サイズ感が分かりにくいです。,It's hard to tell how the sizes fit.
+R020,female,10s,3,3,3,4,4,4,1,5,3,2,3,4,4,返品の送料が無料だと嬉しいです。配送が早くて助かりました。,"Free return shipping would be great. Delivery was fast, which was helpful."
+R021,female,40s,5,5,4,3,3,2,3,4,4,1,3,2,4,アプリがあると便利だと思います。,An app would be convenient.
+R022,female,40s,3,4,3,2,2,2,5,5,5,2,1,1,4,返品の手続きが簡単で安心です。商品の写真をもっと増やしてほしいです。,"Returns are easy, which is reassuring. Please add more product photos."
+R023,male,20s,4,5,5,1,3,3,4,4,3,3,2,2,4,学生には値段が少し高いです。サイズ表をもっと詳しくしてほしいです。,The prices are a bit expensive for students. Please make the size chart more detailed.
+R024,female,40s,2,2,2,3,3,4,3,4,4,2,3,2,3,着用モデルの身長を載せてほしいです。,Please show the height of the models.
+R025,female,30s,4,3,4,2,3,3,2,4,2,3,4,3,2,デザインがかわいくて気に入っています。,I love the cute designs.
+R026,female,40s,3,3,2,3,3,4,4,5,4,3,1,3,5,返品の手続きが簡単で安心です。,"Returns are easy, which is reassuring."
+R027,female,20s,4,5,3,4,3,4,4,3,4,2,2,4,2,着用モデルの身長を載せてほしいです。,Please show the height of the models.
+R028,female,30s,2,2,3,4,4,4,3,5,2,2,3,3,3,,
+R029,female,50+,1,2,1,3,4,3,4,3,4,4,5,5,4,サイトが見やすくて買いやすいです。,The website is easy to browse and shop on.
+R030,female,40s,2,3,3,1,3,3,4,5,3,1,2,3,4,サイトが見やすくて買いやすいです。,The website is easy to browse and shop on.
+R031,female,20s,1,4,3,3,4,3,4,4,5,3,3,3,5,,
+R032,male,50+,4,4,4,1,2,2,3,3,5,1,2,1,4,着用モデルの身長を載せてほしいです。,Please show the height of the models.
+R033,male,20s,4,5,4,4,4,3,3,2,3,3,3,3,2,着用モデルの身長を載せてほしいです。,Please show the height of the models.
+R034,female,30s,3,3,4,5,4,5,5,5,5,4,4,5,4,洗濯しても型崩れしないのが良いです。リサイクルの取り組みがあると嬉しいです。,It keeps its shape even after washing. A recycling program would be nice.
+R035,female,40s,4,3,5,1,1,2,4,3,3,3,2,2,4,インスタの投稿を見て購入しました。サイズ感が分かりにくいです。,I bought it after seeing an Instagram post. It's hard to tell how the sizes fit.
+R036,male,20s,1,1,2,4,2,3,4,4,3,3,4,5,4,,
+R037,female,40s,3,4,4,2,2,2,4,3,4,3,3,2,3,価格が高めなので買うのを迷います。,"The prices are a bit high, so I hesitate to buy."
+R038,female,30s,1,4,2,2,4,5,4,4,5,3,5,5,3,送料無料の金額をもう少し下げてほしいです。インフルエンサーとのコラボ商品が欲しいです。,Please lower the minimum order for free shipping. I'd like collaboration items with influencers.
+R039,male,50+,3,2,2,1,1,3,5,5,4,2,3,2,3,配送が早くて助かりました。,"Delivery was fast, which was helpful."
+R040,female,50+,2,1,1,1,1,1,5,5,4,2,1,1,5,着用モデルの身長を載せてほしいです。,Please show the height of the models.
+R041,male,50+,2,2,2,4,2,5,5,3,4,3,2,3,4,サイズ表をもっと詳しくしてほしいです。環境に配慮した素材を増やしてほしいです。,Please make the size chart more detailed. Please use more eco-friendly materials.
+R042,female,50+,1,1,1,3,3,4,3,3,4,5,3,4,4,素材の質がもう少し良いと嬉しいです。商品の写真をもっと増やしてほしいです。,I'd like slightly better material quality. Please add more product photos.
+R043,female,20s,2,1,3,5,4,5,3,4,4,3,3,1,5,クーポンがあると嬉しいです。SNSでコーディネートを紹介してほしいです。,Coupons would be nice. Please share outfit ideas on social media.
+R044,male,30s,3,3,3,2,3,3,2,5,3,2,1,1,3,学生には値段が少し高いです。サイズ表をもっと詳しくしてほしいです。,The prices are a bit expensive for students. Please make the size chart more detailed.
+R045,female,40s,3,1,3,4,4,4,4,3,3,2,2,1,5,セールをもっと頻繁にしてほしいです。,I'd like more frequent sales.
+R046,female,30s,2,4,3,3,2,4,4,3,3,3,1,3,5,交換の手続きが分かりにくかったです。インスタの投稿を見て購入しました。,The exchange process was confusing. I bought it after seeing an Instagram post.
+R047,female,30s,4,5,3,3,3,2,4,4,3,1,2,2,3,,
+R048,female,20s,3,4,3,4,2,2,4,3,5,3,3,2,5,サイズ感が分かりにくいです。洗濯しても型崩れしないのが良いです。,It's hard to tell how the sizes fit. It keeps its shape even after washing.
+R049,male,20s,4,4,4,4,4,5,3,2,3,5,4,3,2,生地がしっかりしていて長く着られます。デザインがかわいくて気に入っています。,The fabric is sturdy and lasts a long time. I love the cute designs.
+R050,female,40s,1,2,2,2,4,3,5,5,5,2,2,4,3,環境に配慮した素材を増やしてほしいです。洗濯しても型崩れしないのが良いです。,Please use more eco-friendly materials. It keeps its shape even after washing.
+R051,male,20s,4,3,4,4,2,3,3,2,2,3,2,1,3,返品の手続きが簡単で安心です。,"Returns are easy, which is reassuring."
+R052,female,40s,2,3,3,2,3,2,4,5,3,2,1,3,4,素材の質がもう少し良いと嬉しいです。,I'd like slightly better material quality.
+R053,female,10s,2,1,3,3,3,3,3,5,4,3,3,4,3,サイズ感が分かりにくいです。,It's hard to tell how the sizes fit.
+R054,female,20s,4,4,5,4,4,4,2,4,3,2,2,3,2,,
+R055,female,10s,3,5,4,5,4,5,4,4,4,3,3,2,3,配送が早くて助かりました。もう少し価格が安いと嬉しいです。,"Delivery was fast, which was helpful. I wish the prices were a little lower."
+R056,male,30s,4,5,4,3,4,1,4,3,4,3,2,3,2,セールをもっと頻繁にしてほしいです。交換の手続きが分かりにくかったです。,I'd like more frequent sales. The exchange process was confusing.
+R057,female,20s,3,4,3,4,4,3,4,4,5,3,3,3,4,素材の質がもう少し良いと嬉しいです。アプリがあると便利だと思います。,I'd like slightly better material quality. An app would be convenient.
+R058,female,30s,3,3,2,2,2,1,5,5,5,2,2,4,3,,
+R059,female,20s,4,1,3,4,4,4,5,4,3,2,3,2,5,交換の手続きが分かりにくかったです。送料が高いと感じます。,The exchange process was confusing. The shipping fee feels expensive.
+R060,male,30s,4,5,5,2,1,2,4,3,4,2,2,3,4,クーポンがあると嬉しいです。,Coupons would be nice.
+R061,female,30s,3,2,4,3,2,2,4,3,3,5,3,5,3,リサイクルの取り組みがあると嬉しいです。着用モデルの身長を載せてほしいです。,A recycling program would be nice. Please show the height of the models.
+R062,female,20s,2,1,2,2,4,3,3,5,4,1,3,2,3,商品の写真をもっと増やしてほしいです。,Please add more product photos.
+R063,female,40s,3,3,3,3,2,1,2,4,3,3,3,4,4,セールをもっと頻繁にしてほしいです。他にない個性的なデザインが好きです。,I'd like more frequent sales. I like the unique designs you can't find elsewhere.
+R064,female,40s,4,4,2,4,2,2,1,1,4,3,1,3,4,,
+R065,male,50+,2,2,2,2,2,2,2,3,3,3,2,3,2,過剰な包装を減らしてほしいです。返品の送料が無料だと嬉しいです。,Please reduce excessive packaging. Free return shipping would be great.
+R066,other,20s,4,4,4,2,3,3,3,3,3,1,1,1,3,他にない個性的なデザインが好きです。,I like the unique designs you can't find elsewhere.
+R067,female,40s,4,2,3,4,4,4,4,5,4,2,1,1,4,インスタの投稿を見て購入しました。洗濯しても型崩れしないのが良いです。,I bought it after seeing an Instagram post. It keeps its shape even after washing.
+R068,female,10s,3,3,3,5,4,4,5,5,5,2,2,2,4,他にない個性的なデザインが好きです。,I like the unique designs you can't find elsewhere.
+R069,male,50+,5,5,5,2,3,4,3,3,5,1,1,2,4,配送が早くて助かりました。,"Delivery was fast, which was helpful."
+R070,female,20s,4,3,4,3,2,2,4,3,5,4,5,4,4,送料無料の金額をもう少し下げてほしいです。,Please lower the minimum order for free shipping.
+R071,female,20s,5,4,5,3,5,5,2,5,4,4,4,5,2,クーポンがあると嬉しいです。洗濯しても型崩れしないのが良いです。,Coupons would be nice. It keeps its shape even after washing.
+R072,female,10s,5,5,5,5,5,5,3,2,3,3,2,2,3,クーポンがあると嬉しいです。トレンドのデザインが多くて嬉しいです。,Coupons would be nice. I'm happy there are many trendy designs.
+R073,male,40s,4,5,4,2,3,4,4,4,5,3,2,3,3,サイズ表をもっと詳しくしてほしいです。,Please make the size chart more detailed.
+R074,male,30s,4,4,4,1,1,2,1,3,4,2,2,1,2,洗濯しても型崩れしないのが良いです。,It keeps its shape even after washing.
+R075,male,50+,5,5,5,3,5,3,4,3,4,2,2,4,3,返品の送料が無料だと嬉しいです。,Free return shipping would be great.
+R076,male,20s,3,3,2,4,4,3,4,1,3,3,2,1,2,他にない個性的なデザインが好きです。価格が高めなので買うのを迷います。,"I like the unique designs you can't find elsewhere. The prices are a bit high, so I hesitate to buy."
+R077,female,50+,3,3,4,4,5,5,5,4,5,4,2,3,4,交換の手続きが分かりにくかったです。素材の質がもう少し良いと嬉しいです。,The exchange process was confusing. I'd like slightly better material quality.
+R078,male,20s,1,1,1,1,1,2,4,5,2,4,3,3,4,送料が高いと感じます。,The shipping fee feels expensive.
+R079,female,20s,2,3,3,5,5,3,5,4,4,3,4,3,3,他にない個性的なデザインが好きです。サイズ感が分かりにくいです。,I like the unique designs you can't find elsewhere. It's hard to tell how the sizes fit.
+R080,female,30s,4,2,3,5,5,4,3,3,3,4,3,3,3,トレンドのデザインが多くて嬉しいです。,I'm happy there are many trendy designs.
+R081,female,10s,4,4,3,4,3,5,3,2,4,1,1,2,2,SNSでコーディネートを紹介してほしいです。他にない個性的なデザインが好きです。,Please share outfit ideas on social media. I like the unique designs you can't find elsewhere.
+R082,male,30s,1,1,2,2,2,2,4,5,5,3,3,2,5,返品の送料が無料だと嬉しいです。トレンドのデザインが多くて嬉しいです。,Free return shipping would be great. I'm happy there are many trendy designs.
+R083,female,30s,2,2,1,3,3,3,5,3,5,2,2,3,5,環境に配慮した素材を増やしてほしいです。インスタの投稿を見て購入しました。,Please use more eco-friendly materials. I bought it after seeing an Instagram post.
+R084,female,10s,5,5,4,4,2,5,2,3,3,4,5,5,3,過剰な包装を減らしてほしいです。,Please reduce excessive packaging.
+R085,female,20s,2,4,3,3,3,2,2,4,5,3,3,4,3,送料無料の金額をもう少し下げてほしいです。サイズ感が分かりにくいです。,Please lower the minimum order for free shipping. It's hard to tell how the sizes fit.
+R086,female,20s,4,4,4,3,3,5,3,4,4,3,2,4,2,学生には値段が少し高いです。クーポンがあると嬉しいです。,The prices are a bit expensive for students. Coupons would be nice.
+R087,female,20s,4,4,5,5,5,5,2,2,3,1,1,2,1,着用モデルの身長を載せてほしいです。,Please show the height of the models.
+R088,female,50+,2,3,4,3,2,3,4,4,4,3,1,1,3,着用モデルの身長を載せてほしいです。,Please show the height of the models.
+R089,female,30s,2,2,2,1,1,1,2,1,3,1,1,1,3,トレンドのデザインが多くて嬉しいです。,I'm happy there are many trendy designs.
+R090,male,20s,4,3,4,2,2,3,3,3,3,3,4,3,3,クーポンがあると嬉しいです。,Coupons would be nice.
+R091,male,40s,3,3,4,1,2,3,2,3,3,3,4,1,4,アプリがあると便利だと思います。,An app would be convenient.
+R092,female,20s,3,3,4,3,3,3,2,4,4,3,2,2,3,,
+R093,male,30s,4,4,3,3,2,2,3,3,3,2,4,4,3,洗濯しても型崩れしないのが良いです。,It keeps its shape even after washing.
+R094,male,20s,2,4,1,3,2,2,2,2,2,2,2,3,3,学生には値段が少し高いです。サイトが見やすくて買いやすいです。,The prices are a bit expensive for students. The website is easy to browse and shop on.
+R095,male,30s,2,1,2,4,3,3,4,4,5,2,3,2,4,返品の手続きが簡単で安心です。,"Returns are easy, which is reassuring."
+R096,male,30s,4,2,2,3,4,4,4,3,2,3,3,3,3,素材の質がもう少し良いと嬉しいです。送料が高いと感じます。,I'd like slightly better material quality. The shipping fee feels expensive.
+R097,female,20s,4,2,1,5,5,4,3,2,1,3,3,2,3,サイズ感が分かりにくいです。,It's hard to tell how the sizes fit.
+R098,male,40s,3,4,4,1,2,3,2,5,4,5,4,5,4,もう少し価格が安いと嬉しいです。,I wish the prices were a little lower.
+R099,female,30s,2,3,2,3,2,2,4,5,5,2,2,2,4,セールの情報をメールで知りたいです。,I want to get sale announcements by email.
+R100,female,30s,3,5,5,5,4,5,4,3,3,2,2,1,3,デザインがかわいくて気に入っています。,I love the cute designs.
+R101,male,20s,2,3,4,3,4,5,4,1,3,4,2,5,2,サイトが見やすくて買いやすいです。セールをもっと頻繁にしてほしいです。,The website is easy to browse and shop on. I'd like more frequent sales.
+R102,female,20s,2,2,3,2,1,2,4,3,4,4,3,3,4,送料無料の金額をもう少し下げてほしいです。価格が高めなので買うのを迷います。,"Please lower the minimum order for free shipping. The prices are a bit high, so I hesitate to buy."
+R103,female,20s,4,5,4,3,2,3,3,3,3,1,3,1,4,送料無料の金額をもう少し下げてほしいです。サイズ表をもっと詳しくしてほしいです。,Please lower the minimum order for free shipping. Please make the size chart more detailed.
+R104,female,10s,5,4,4,4,2,2,3,2,3,3,3,2,2,サイズ表をもっと詳しくしてほしいです。,Please make the size chart more detailed.
+R105,male,10s,3,3,1,4,3,5,5,5,4,3,3,4,4,素材の質がもう少し良いと嬉しいです。,I'd like slightly better material quality.
+R106,female,30s,1,1,1,1,2,3,5,5,2,2,3,2,5,インフルエンサーとのコラボ商品が欲しいです。,I'd like collaboration items with influencers.
+R107,female,20s,4,3,3,5,4,5,3,3,4,2,2,3,3,インフルエンサーとのコラボ商品が欲しいです。サイズ感が分かりにくいです。,I'd like collaboration items with influencers. It's hard to tell how the sizes fit.
+R108,male,40s,4,3,3,1,4,3,3,4,3,2,1,1,3,生地がしっかりしていて長く着られます。,The fabric is sturdy and lasts a long time.
+R109,male,10s,2,2,2,4,3,2,2,5,4,4,4,2,4,送料無料の金額をもう少し下げてほしいです。セールの情報をメールで知りたいです。,Please lower the minimum order for free shipping. I want to get sale announcements by email.
+R110,female,40s,4,5,4,3,2,3,5,3,2,4,5,4,2,もう少し価格が安いと嬉しいです。,I wish the prices were a little lower.
+R111,male,20s,4,4,3,3,4,3,1,1,2,1,2,2,3,セールの情報をメールで知りたいです。,I want to get sale announcements by email.
+R112,female,40s,4,4,4,4,2,4,3,4,4,1,1,2,2,生地がしっかりしていて長く着られます。,The fabric is sturdy and lasts a long time.
+R113,male,50+,4,3,2,3,4,2,5,5,5,4,5,4,4,洗濯しても型崩れしないのが良いです。,It keeps its shape even after washing.
+R114,female,30s,3,4,4,3,2,1,3,2,4,1,1,1,3,SNSでコーディネートを紹介してほしいです。,Please share outfit ideas on social media.
+R115,female,20s,4,2,3,3,4,3,3,3,3,4,4,4,5,クーポンがあると嬉しいです。,Coupons would be nice.
+R116,female,10s,4,4,4,4,4,3,3,3,4,4,4,3,3,,
+R117,female,40s,3,3,3,3,3,4,3,3,2,4,3,3,3,サイズ感が分かりにくいです。,It's hard to tell how the sizes fit.
+R118,female,30s,3,3,2,3,3,2,5,4,3,3,4,4,4,生地がしっかりしていて長く着られます。,The fabric is sturdy and lasts a long time.
+R119,female,10s,3,3,3,1,2,2,5,5,4,2,3,3,4,セールをもっと頻繁にしてほしいです。,I'd like more frequent sales.
+R120,female,30s,5,3,4,3,3,3,3,4,4,4,4,3,2,トレンドのデザインが多くて嬉しいです。,I'm happy there are many trendy designs.
+R121,male,10s,2,3,3,3,4,3,3,4,3,4,4,5,3,,
+R122,male,30s,2,2,3,5,3,4,4,4,5,3,3,2,5,SNSでコーディネートを紹介してほしいです。,Please share outfit ideas on social media.
+R123,female,30s,4,4,3,5,4,4,4,4,5,1,4,4,4,生地がしっかりしていて長く着られます。,The fabric is sturdy and lasts a long time.
+R124,female,40s,3,2,3,2,2,1,5,5,5,3,2,1,3,,
+R125,female,20s,4,5,2,4,3,3,3,3,1,3,2,4,3,送料が高いと感じます。,The shipping fee feels expensive.
+R126,female,20s,3,3,1,3,3,3,4,3,3,4,2,3,4,デザインがかわいくて気に入っています。サイズ表をもっと詳しくしてほしいです。,I love the cute designs. Please make the size chart more detailed.
+R127,male,20s,4,2,2,3,4,5,3,4,4,3,2,2,3,学生には値段が少し高いです。SNSでコーディネートを紹介してほしいです。,The prices are a bit expensive for students. Please share outfit ideas on social media.
+R128,male,10s,4,4,3,4,3,3,2,1,1,3,3,3,4,SNSでコーディネートを紹介してほしいです。リサイクルの取り組みがあると嬉しいです。,Please share outfit ideas on social media. A recycling program would be nice.
+R129,female,50+,3,3,2,2,2,1,4,5,4,3,3,3,4,価格が高めなので買うのを迷います。クーポンがあると嬉しいです。,"The prices are a bit high, so I hesitate to buy. Coupons would be nice."
+R130,female,50+,4,4,5,3,3,3,3,2,2,3,3,4,4,配送が早くて助かりました。洗濯しても型崩れしないのが良いです。,"Delivery was fast, which was helpful. It keeps its shape even after washing."
+R131,male,30s,3,5,3,3,2,3,4,3,3,1,2,1,3,生地がしっかりしていて長く着られます。返品の送料が無料だと嬉しいです。,The fabric is sturdy and lasts a long time. Free return shipping would be great.
+R132,male,10s,4,1,4,4,3,3,3,4,4,5,3,4,3,サイズ感が分かりにくいです。リサイクルの取り組みがあると嬉しいです。,It's hard to tell how the sizes fit. A recycling program would be nice.
+R133,male,10s,4,2,3,4,4,4,3,2,4,4,4,3,4,デザインがかわいくて気に入っています。インスタの投稿を見て購入しました。,I love the cute designs. I bought it after seeing an Instagram post.
+R134,male,50+,1,3,3,1,2,2,5,5,5,2,3,3,3,配送が早くて助かりました。SNSでコーディネートを紹介してほしいです。,"Delivery was fast, which was helpful. Please share outfit ideas on social media."
+R135,female,20s,4,5,5,4,3,4,3,2,2,5,4,4,2,サイズ表をもっと詳しくしてほしいです。環境に配慮した素材を増やしてほしいです。,Please make the size chart more detailed. Please use more eco-friendly materials.
+R136,male,20s,5,5,5,4,3,3,1,1,1,2,2,3,2,配送が早くて助かりました。,"Delivery was fast, which was helpful."
+R137,male,40s,2,4,4,2,3,2,5,4,5,3,3,3,5,洗濯しても型崩れしないのが良いです。セールをもっと頻繁にしてほしいです。,It keeps its shape even after washing. I'd like more frequent sales.
+R138,male,20s,4,2,2,4,2,3,5,5,4,2,2,3,3,セールの情報をメールで知りたいです。,I want to get sale announcements by email.
+R139,female,20s,3,4,3,4,4,3,2,4,4,5,5,4,4,トレンドのデザインが多くて嬉しいです。,I'm happy there are many trendy designs.
+R140,male,20s,4,3,3,3,4,3,1,2,1,2,1,2,2,リサイクルの取り組みがあると嬉しいです。インフルエンサーとのコラボ商品が欲しいです。,A recycling program would be nice. I'd like collaboration items with influencers.
+R141,female,40s,3,3,3,4,5,5,4,1,3,2,2,3,4,他にない個性的なデザインが好きです。,I like the unique designs you can't find elsewhere.
+R142,female,30s,3,3,2,1,2,2,4,4,4,3,3,2,5,デザインがかわいくて気に入っています。もう少し価格が安いと嬉しいです。,I love the cute designs. I wish the prices were a little lower.
+R143,female,40s,2,2,3,3,2,3,3,3,3,3,3,3,3,素材の質がもう少し良いと嬉しいです。,I'd like slightly better material quality.
+R144,female,30s,3,3,3,4,3,3,5,4,5,3,4,2,3,素材の質がもう少し良いと嬉しいです。,I'd like slightly better material quality.
+R145,male,20s,1,3,2,4,3,3,4,4,3,2,1,2,5,セールの情報をメールで知りたいです。交換の手続きが分かりにくかったです。,I want to get sale announcements by email. The exchange process was confusing.
+R146,female,20s,3,3,4,4,4,4,2,2,2,3,4,3,3,送料無料の金額をもう少し下げてほしいです。,Please lower the minimum order for free shipping.
+R147,female,40s,3,3,2,2,3,2,3,2,2,3,2,3,4,価格が高めなので買うのを迷います。配送が早くて助かりました。,"The prices are a bit high, so I hesitate to buy. Delivery was fast, which was helpful."
+R148,female,20s,5,5,3,3,1,2,4,4,4,3,4,3,4,インフルエンサーとのコラボ商品が欲しいです。,I'd like collaboration items with influencers.
+R149,female,30s,3,4,3,3,3,3,2,3,1,3,2,3,2,セールの情報をメールで知りたいです。,I want to get sale announcements by email.
+R150,female,30s,4,2,3,4,4,4,5,5,5,3,3,3,5,サイズ表をもっと詳しくしてほしいです。,Please make the size chart more detailed.
+R151,male,50+,3,3,3,3,2,2,5,5,4,3,3,2,5,SNSでコーディネートを紹介してほしいです。洗濯しても型崩れしないのが良いです。,Please share outfit ideas on social media. It keeps its shape even after washing.
+R152,female,10s,3,3,5,2,3,2,2,2,3,2,2,2,2,,
+R153,female,20s,1,2,3,4,3,4,4,4,5,2,3,3,4,,
+R154,female,30s,1,1,2,5,5,4,4,3,4,2,3,3,3,学生には値段が少し高いです。,The prices are a bit expensive for students.
+R155,male,20s,2,2,2,2,3,2,5,4,5,3,3,3,5,サイズ感が分かりにくいです。価格が高めなので買うのを迷います。,"It's hard to tell how the sizes fit. The prices are a bit high, so I hesitate to buy."
+R156,female,20s,3,5,3,4,3,3,2,4,5,2,3,2,4,素材の質がもう少し良いと嬉しいです。,I'd like slightly better material quality.
+R157,male,50+,1,1,1,2,3,3,5,5,4,4,4,4,4,,
+R158,female,40s,2,3,2,3,3,2,5,5,5,5,3,3,4,リサイクルの取り組みがあると嬉しいです。,A recycling program would be nice.
+R159,female,20s,5,5,5,4,5,5,2,1,2,2,2,2,2,,
+R160,male,10s,4,2,2,3,3,2,3,3,2,3,1,3,4,過剰な包装を減らしてほしいです。,Please reduce excessive packaging.
+R161,female,40s,1,1,3,3,2,3,4,5,4,1,1,2,4,環境に配慮した素材を増やしてほしいです。デザインがかわいくて気に入っています。,Please use more eco-friendly materials. I love the cute designs.
+R162,female,30s,5,4,2,3,3,3,4,4,3,4,4,2,3,セールの情報をメールで知りたいです。,I want to get sale announcements by email.
+R163,female,50+,3,2,2,4,2,3,4,4,5,2,1,2,4,サイズ感が分かりにくいです。,It's hard to tell how the sizes fit.
+R164,male,30s,5,4,3,2,4,2,4,4,5,2,3,3,3,リサイクルの取り組みがあると嬉しいです。返品の送料が無料だと嬉しいです。,A recycling program would be nice. Free return shipping would be great.
+R165,female,20s,4,4,3,4,3,3,2,3,3,3,2,4,1,トレンドのデザインが多くて嬉しいです。,I'm happy there are many trendy designs.
+R166,female,20s,2,3,2,4,2,3,3,4,3,2,3,1,3,送料無料の金額をもう少し下げてほしいです。着用モデルの身長を載せてほしいです。,Please lower the minimum order for free shipping. Please show the height of the models.
+R167,male,20s,2,3,4,2,4,3,4,4,4,3,3,4,3,環境に配慮した素材を増やしてほしいです。価格が高めなので買うのを迷います。,"Please use more eco-friendly materials. The prices are a bit high, so I hesitate to buy."
+R168,female,30s,3,3,2,4,5,5,3,4,2,2,3,3,5,デザインがかわいくて気に入っています。,I love the cute designs.
+R169,female,10s,3,2,1,3,3,5,2,1,2,3,2,2,2,配送が早くて助かりました。,"Delivery was fast, which was helpful."
+R170,female,20s,3,3,3,2,3,4,4,5,2,3,2,3,5,配送が早くて助かりました。,"Delivery was fast, which was helpful."
+R171,female,20s,2,2,2,2,2,4,5,5,4,2,2,4,4,,
+R172,female,30s,3,3,2,3,3,3,4,3,3,1,2,2,4,サイトが見やすくて買いやすいです。生地がしっかりしていて長く着られます。,The website is easy to browse and shop on. The fabric is sturdy and lasts a long time.
+R173,female,20s,4,3,2,4,3,4,5,5,5,1,1,2,4,商品の写真をもっと増やしてほしいです。価格が高めなので買うのを迷います。,"Please add more product photos. The prices are a bit high, so I hesitate to buy."
+R174,male,40s,4,4,4,2,3,2,4,5,4,3,5,3,3,サイトが見やすくて買いやすいです。,The website is easy to browse and shop on.
+R175,male,20s,3,4,3,4,4,4,4,4,5,5,5,3,3,,
+R176,female,40s,2,1,4,3,3,2,4,2,1,2,4,2,5,商品の写真をもっと増やしてほしいです。デザインがかわいくて気に入っています。,Please add more product photos. I love the cute designs.
+R177,male,40s,3,5,5,5,3,3,4,4,3,4,2,3,2,学生には値段が少し高いです。,The prices are a bit expensive for students.
+R178,female,50+,5,3,3,1,2,2,4,3,5,1,3,4,3,,
+R179,male,20s,4,3,4,2,4,4,3,5,4,4,3,3,4,学生には値段が少し高いです。返品の送料が無料だと嬉しいです。,The prices are a bit expensive for students. Free return shipping would be great.
+R180,female,40s,2,3,3,1,1,1,2,2,2,4,3,4,3,デザインがかわいくて気に入っています。,I love the cute designs.
+R181,male,20s,3,3,4,2,2,2,4,2,4,3,2,2,4,価格が高めなので買うのを迷います。洗濯しても型崩れしないのが良いです。,"The prices are a bit high, so I hesitate to buy. It keeps its shape even after washing."
+R182,male,20s,3,3,3,5,5,5,3,3,4,2,3,2,4,生地がしっかりしていて長く着られます。デザインがかわいくて気に入っています。,The fabric is sturdy and lasts a long time. I love the cute designs.
+R183,male,20s,2,2,3,2,2,3,4,4,4,4,3,3,2,交換の手続きが分かりにくかったです。サイズ表をもっと詳しくしてほしいです。,The exchange process was confusing. Please make the size chart more detailed.
+R184,other,30s,3,3,4,2,1,2,2,3,5,2,2,2,2,送料が高いと感じます。セールの情報をメールで知りたいです。,The shipping fee feels expensive. I want to get sale announcements by email.
+R185,female,10s,3,4,5,3,2,3,5,4,3,3,3,4,3,他にない個性的なデザインが好きです。,I like the unique designs you can't find elsewhere.
+R186,male,50+,4,4,3,4,3,4,5,3,4,4,4,4,5,他にない個性的なデザインが好きです。,I like the unique designs you can't find elsewhere.
+R187,male,10s,3,3,3,5,5,5,3,3,3,1,3,2,5,,
+R188,female,30s,4,4,4,2,3,2,3,2,3,3,4,2,2,インフルエンサーとのコラボ商品が欲しいです。,I'd like collaboration items with influencers.
+R189,male,40s,2,2,4,1,1,1,5,5,4,3,4,4,4,生地がしっかりしていて長く着られます。,The fabric is sturdy and lasts a long time.
+R190,female,20s,3,2,4,3,2,4,3,3,2,2,3,5,2,素材の質がもう少し良いと嬉しいです。クーポンがあると嬉しいです。,I'd like slightly better material quality. Coupons would be nice.
+R191,female,30s,5,5,4,3,1,1,3,3,3,3,3,3,3,着用モデルの身長を載せてほしいです。,Please show the height of the models.
+R192,female,30s,4,4,4,4,4,4,5,5,5,5,3,2,4,返品の送料が無料だと嬉しいです。,Free return shipping would be great.
+R193,female,40s,3,3,3,2,3,1,3,3,3,1,1,1,3,,
+R194,female,30s,4,4,4,4,4,3,4,4,4,4,3,3,3,,
+R195,male,40s,2,3,3,3,1,4,3,3,2,3,4,4,4,交換の手続きが分かりにくかったです。,The exchange process was confusing.
+R196,female,40s,4,4,5,2,4,4,4,5,4,3,3,2,5,リサイクルの取り組みがあると嬉しいです。,A recycling program would be nice.
+R197,male,30s,1,3,2,1,1,1,3,3,3,3,4,2,5,商品の写真をもっと増やしてほしいです。,Please add more product photos.
+R198,female,20s,4,2,3,3,2,2,2,2,3,3,2,2,5,素材の質がもう少し良いと嬉しいです。送料が高いと感じます。,I'd like slightly better material quality. The shipping fee feels expensive.
+R199,female,20s,2,3,2,2,3,4,5,4,4,1,1,2,3,送料が高いと感じます。,The shipping fee feels expensive.
+R200,female,20s,5,4,4,1,3,2,5,4,5,2,4,2,2,生地がしっかりしていて長く着られます。,The fabric is sturdy and lasts a long time.
+R201,male,40s,5,5,4,4,3,4,3,3,3,3,2,3,3,,
+R202,male,20s,4,3,4,1,3,2,3,1,3,3,4,4,2,返品の手続きが簡単で安心です。,"Returns are easy, which is reassuring."
+R203,female,50+,2,1,3,1,2,4,4,4,4,2,3,4,5,他にない個性的なデザインが好きです。,I like the unique designs you can't find elsewhere.
+R204,male,20s,3,4,4,2,3,3,3,3,3,2,3,3,3,過剰な包装を減らしてほしいです。サイトが見やすくて買いやすいです。,Please reduce excessive packaging. The website is easy to browse and shop on.
+R205,male,10s,5,5,5,5,4,5,2,3,3,5,3,4,2,クーポンがあると嬉しいです。,Coupons would be nice.
+R206,male,20s,3,3,4,2,2,2,3,2,4,2,3,4,3,他にない個性的なデザインが好きです。,I like the unique designs you can't find elsewhere.
+R207,female,20s,1,1,4,3,5,3,2,2,4,3,4,4,4,デザインがかわいくて気に入っています。,I love the cute designs.
+R208,female,20s,3,4,3,5,4,3,4,2,1,2,4,2,3,配送が早くて助かりました。,"Delivery was fast, which was helpful."
+R209,male,20s,3,3,2,2,3,2,4,4,3,4,3,2,4,着用モデルの身長を載せてほしいです。,Please show the height of the models.
+R210,male,40s,1,1,1,2,1,2,4,3,5,1,2,2,4,,
+R211,female,20s,3,3,2,4,4,4,4,5,4,2,2,1,2,リサイクルの取り組みがあると嬉しいです。,A recycling program would be nice.
+R212,female,30s,3,4,3,5,3,4,3,4,4,2,3,2,4,サイズ感が分かりにくいです。,It's hard to tell how the sizes fit.
+R213,female,50+,3,3,2,4,4,3,3,5,2,1,3,3,3,過剰な包装を減らしてほしいです。,Please reduce excessive packaging.
+R214,female,20s,5,4,5,5,4,4,2,3,2,5,5,3,2,SNSでコーディネートを紹介してほしいです。,Please share outfit ideas on social media.
+R215,female,30s,4,3,3,4,4,4,1,1,1,2,1,2,3,サイトが見やすくて買いやすいです。,The website is easy to browse and shop on.
+R216,female,50+,2,2,3,1,2,3,4,4,4,3,5,3,4,素材の質がもう少し良いと嬉しいです。,I'd like slightly better material quality.
+R217,female,30s,3,3,4,3,3,3,4,3,3,4,4,3,3,セールをもっと頻繁にしてほしいです。,I'd like more frequent sales.
+R218,male,30s,5,5,5,4,2,4,3,4,2,3,4,3,4,もう少し価格が安いと嬉しいです。,I wish the prices were a little lower.
+R219,female,30s,4,3,3,2,2,2,3,2,2,1,1,1,3,,
+R220,female,20s,1,2,1,4,4,3,3,3,3,5,3,4,4,学生には値段が少し高いです。,The prices are a bit expensive for students.
+R221,female,40s,4,3,1,1,3,2,4,5,3,1,2,1,4,サイトが見やすくて買いやすいです。セールをもっと頻繁にしてほしいです。,The website is easy to browse and shop on. I'd like more frequent sales.
+R222,female,50+,1,3,2,3,1,1,5,5,5,2,1,1,5,リサイクルの取り組みがあると嬉しいです。,A recycling program would be nice.
+R223,male,50+,4,4,4,1,1,2,4,4,5,3,2,2,4,サイトが見やすくて買いやすいです。,The website is easy to browse and shop on.
+R224,female,30s,5,4,3,2,3,2,5,4,4,4,3,3,5,洗濯しても型崩れしないのが良いです。,It keeps its shape even after washing.
+R225,female,20s,4,5,4,4,2,3,3,3,2,3,2,3,4,洗濯しても型崩れしないのが良いです。,It keeps its shape even after washing.
+R226,female,30s,2,3,3,3,3,2,4,5,4,3,3,2,3,サイズ表をもっと詳しくしてほしいです。,Please make the size chart more detailed.
+R227,female,50+,3,4,4,2,3,3,4,4,4,1,2,2,5,,
+R228,other,50+,4,3,4,3,2,2,4,4,5,2,2,3,3,もう少し価格が安いと嬉しいです。サイズ感が分かりにくいです。,I wish the prices were a little lower. It's hard to tell how the sizes fit.
+R229,female,20s,3,2,3,2,1,3,4,3,3,3,2,3,4,サイズ感が分かりにくいです。インフルエンサーとのコラボ商品が欲しいです。,It's hard to tell how the sizes fit. I'd like collaboration items with influencers.
+R230,male,50+,4,4,4,1,1,1,4,5,4,4,4,2,4,サイトが見やすくて買いやすいです。生地がしっかりしていて長く着られます。,The website is easy to browse and shop on. The fabric is sturdy and lasts a long time.
+R231,female,40s,3,4,3,3,5,4,4,4,4,2,3,1,3,洗濯しても型崩れしないのが良いです。過剰な包装を減らしてほしいです。,It keeps its shape even after washing. Please reduce excessive packaging.
+R232,female,40s,3,4,4,4,4,4,3,5,3,2,2,2,3,SNSでコーディネートを紹介してほしいです。,Please share outfit ideas on social media.
+R233,male,20s,3,2,3,4,5,2,3,3,5,2,2,1,4,学生には値段が少し高いです。,The prices are a bit expensive for students.
+R234,female,50+,3,3,3,2,2,2,2,3,4,2,2,3,3,クーポンがあると嬉しいです。リサイクルの取り組みがあると嬉しいです。,Coupons would be nice. A recycling program would be nice.
+R235,female,40s,4,4,3,4,3,3,5,5,4,3,3,2,4,商品の写真をもっと増やしてほしいです。生地がしっかりしていて長く着られます。,Please add more product photos. The fabric is sturdy and lasts a long time.
+R236,female,20s,2,2,2,5,4,4,5,4,4,1,3,2,2,アプリがあると便利だと思います。送料無料の金額をもう少し下げてほしいです。,An app would be convenient. Please lower the minimum order for free shipping.
+R237,female,30s,3,3,3,1,2,1,2,3,4,3,3,4,3,他にない個性的なデザインが好きです。,I like the unique designs you can't find elsewhere.
+R238,male,20s,4,3,2,3,3,2,4,5,3,2,3,2,5,インスタの投稿を見て購入しました。,I bought it after seeing an Instagram post.
+R239,female,40s,3,3,3,2,2,1,3,3,2,2,1,1,3,着用モデルの身長を載せてほしいです。デザインがかわいくて気に入っています。,Please show the height of the models. I love the cute designs.
+R240,female,30s,2,3,3,1,3,2,5,4,5,2,3,2,3,サイズ感が分かりにくいです。商品の写真をもっと増やしてほしいです。,It's hard to tell how the sizes fit. Please add more product photos.
+R241,male,30s,4,4,4,2,3,3,4,4,4,4,3,4,3,過剰な包装を減らしてほしいです。トレンドのデザインが多くて嬉しいです。,Please reduce excessive packaging. I'm happy there are many trendy designs.
+R242,male,40s,4,5,4,3,3,4,3,3,3,3,2,2,2,送料が高いと感じます。過剰な包装を減らしてほしいです。,The shipping fee feels expensive. Please reduce excessive packaging.
+R243,other,40s,4,4,3,4,4,3,5,5,5,2,3,3,5,過剰な包装を減らしてほしいです。,Please reduce excessive packaging.
+R244,female,10s,3,2,2,5,3,4,3,4,2,1,2,2,3,価格が高めなので買うのを迷います。デザインがかわいくて気に入っています。,"The prices are a bit high, so I hesitate to buy. I love the cute designs."
+R245,female,40s,4,2,3,2,2,3,2,2,3,1,1,3,3,,
+R246,female,30s,5,4,4,2,3,3,4,5,5,3,3,2,4,価格が高めなので買うのを迷います。,"The prices are a bit high, so I hesitate to buy."
+R247,female,20s,4,4,4,1,3,2,3,4,4,3,3,3,3,セールの情報をメールで知りたいです。サイズ感が分かりにくいです。,I want to get sale announcements by email. It's hard to tell how the sizes fit.
+R248,female,20s,2,1,3,1,2,2,3,3,3,2,2,3,3,,
+R249,female,30s,4,2,4,2,3,3,5,5,3,3,4,3,4,洗濯しても型崩れしないのが良いです。商品の写真をもっと増やしてほしいです。,It keeps its shape even after washing. Please add more product photos.
+R250,female,40s,2,3,3,4,5,4,4,4,4,4,4,3,3,生地がしっかりしていて長く着られます。他にない個性的なデザインが好きです。,The fabric is sturdy and lasts a long time. I like the unique designs you can't find elsewhere.
+R251,other,50+,4,3,3,1,1,2,5,5,5,3,3,3,3,サイズ表をもっと詳しくしてほしいです。洗濯しても型崩れしないのが良いです。,Please make the size chart more detailed. It keeps its shape even after washing.
+R252,female,20s,3,3,4,4,4,3,3,2,4,4,4,4,4,過剰な包装を減らしてほしいです。,Please reduce excessive packaging.
+R253,female,30s,1,2,2,2,2,3,5,5,5,5,4,4,4,リサイクルの取り組みがあると嬉しいです。,A recycling program would be nice.
+R254,male,40s,4,4,3,2,3,2,2,4,3,5,5,3,3,リサイクルの取り組みがあると嬉しいです。,A recycling program would be nice.
+R255,male,30s,5,3,5,4,4,2,4,4,3,2,2,2,4,素材の質がもう少し良いと嬉しいです。送料が高いと感じます。,I'd like slightly better material quality. The shipping fee feels expensive.
+R256,male,40s,2,3,3,4,3,1,4,3,3,3,3,4,2,サイズ感が分かりにくいです。,It's hard to tell how the sizes fit.
+R257,female,30s,2,3,1,4,3,5,1,3,3,3,2,1,3,サイズ表をもっと詳しくしてほしいです。,Please make the size chart more detailed.
+R258,male,20s,5,5,3,2,4,5,4,2,4,3,2,3,2,学生には値段が少し高いです。トレンドのデザインが多くて嬉しいです。,The prices are a bit expensive for students. I'm happy there are many trendy designs.
+R259,other,30s,3,3,3,3,3,2,1,2,3,1,1,2,4,SNSでコーディネートを紹介してほしいです。配送が早くて助かりました。,"Please share outfit ideas on social media. Delivery was fast, which was helpful."
+R260,female,30s,3,3,3,4,2,3,3,5,4,3,2,4,3,環境に配慮した素材を増やしてほしいです。,Please use more eco-friendly materials.
+R261,other,50+,3,3,2,3,3,3,4,5,5,2,3,2,4,,
+R262,female,20s,2,1,1,3,5,2,3,5,2,4,4,3,4,配送が早くて助かりました。,"Delivery was fast, which was helpful."
+R263,female,20s,2,2,2,2,3,3,5,3,5,3,3,4,3,サイズ感が分かりにくいです。,It's hard to tell how the sizes fit.
+R264,male,40s,3,4,4,2,3,3,4,3,4,3,3,2,4,もう少し価格が安いと嬉しいです。,I wish the prices were a little lower.
+R265,male,20s,4,4,3,4,3,3,3,3,5,2,2,2,4,価格が高めなので買うのを迷います。,"The prices are a bit high, so I hesitate to buy."
+R266,female,30s,3,4,4,5,3,4,3,4,5,2,3,2,5,セールをもっと頻繁にしてほしいです。インフルエンサーとのコラボ商品が欲しいです。,I'd like more frequent sales. I'd like collaboration items with influencers.
+R267,female,50+,1,1,1,1,3,2,5,5,5,4,2,4,5,過剰な包装を減らしてほしいです。,Please reduce excessive packaging.
+R268,female,30s,3,1,1,4,3,4,4,4,4,3,4,3,4,アプリがあると便利だと思います。交換の手続きが分かりにくかったです。,An app would be convenient. The exchange process was confusing.
+R269,male,30s,3,2,4,5,3,3,5,3,4,1,3,3,5,インフルエンサーとのコラボ商品が欲しいです。,I'd like collaboration items with influencers.
+R270,female,50+,2,3,3,2,3,2,5,4,3,4,3,4,4,交換の手続きが分かりにくかったです。,The exchange process was confusing.
+R271,female,40s,4,5,4,4,1,3,4,2,3,3,3,3,5,サイズ感が分かりにくいです。,It's hard to tell how the sizes fit.
+R272,male,50+,4,4,5,3,4,4,5,5,5,3,5,4,5,素材の質がもう少し良いと嬉しいです。,I'd like slightly better material quality.
+R273,other,30s,3,3,3,2,3,4,3,1,2,5,4,3,4,着用モデルの身長を載せてほしいです。,Please show the height of the models.
+R274,male,30s,3,2,3,5,5,5,5,4,4,4,3,2,3,送料が高いと感じます。,The shipping fee feels expensive.
+R275,female,20s,5,3,3,4,2,3,5,3,5,4,5,4,4,学生には値段が少し高いです。,The prices are a bit expensive for students.
+R276,female,20s,4,4,4,2,3,4,5,4,3,4,5,3,4,,
+R277,female,30s,4,3,4,3,3,3,3,5,4,2,4,3,4,クーポンがあると嬉しいです。,Coupons would be nice.
+R278,female,10s,4,4,3,4,5,4,3,4,4,3,4,3,2,環境に配慮した素材を増やしてほしいです。インフルエンサーとのコラボ商品が欲しいです。,Please use more eco-friendly materials. I'd like collaboration items with influencers.
+R279,female,20s,2,3,2,3,3,2,5,4,5,2,2,2,4,他にない個性的なデザインが好きです。,I like the unique designs you can't find elsewhere.
+R280,female,40s,4,5,4,4,4,2,4,2,4,3,3,4,5,もう少し価格が安いと嬉しいです。,I wish the prices were a little lower.
+R281,male,30s,3,3,4,5,3,4,1,3,3,2,2,3,4,SNSでコーディネートを紹介してほしいです。,Please share outfit ideas on social media.
+R282,female,10s,3,4,4,3,4,4,3,2,1,3,2,2,3,サイトが見やすくて買いやすいです。トレンドのデザインが多くて嬉しいです。,The website is easy to browse and shop on. I'm happy there are many trendy designs.
+R283,female,20s,5,3,5,4,4,5,4,2,3,1,2,2,3,,
+R284,male,30s,4,2,3,2,3,4,2,4,3,1,2,1,3,送料が高いと感じます。他にない個性的なデザインが好きです。,The shipping fee feels expensive. I like the unique designs you can't find elsewhere.
+R285,male,20s,5,5,5,5,5,4,5,5,5,4,1,3,4,学生には値段が少し高いです。デザインがかわいくて気に入っています。,The prices are a bit expensive for students. I love the cute designs.
+R286,male,30s,3,4,4,2,5,3,2,2,4,1,2,1,3,セールの情報をメールで知りたいです。,I want to get sale announcements by email.
+R287,male,20s,3,3,3,1,2,2,5,5,3,2,2,3,3,素材の質がもう少し良いと嬉しいです。価格が高めなので買うのを迷います。,"I'd like slightly better material quality. The prices are a bit high, so I hesitate to buy."
+R288,other,40s,3,3,1,4,3,4,5,2,4,3,3,2,4,送料が高いと感じます。,The shipping fee feels expensive.
+R289,female,20s,5,5,5,5,3,4,3,3,2,2,3,3,3,過剰な包装を減らしてほしいです。SNSでコーディネートを紹介してほしいです。,Please reduce excessive packaging. Please share outfit ideas on social media.
+R290,male,20s,2,2,3,1,1,2,2,4,2,1,1,2,3,,
+R291,female,30s,2,3,2,1,1,3,4,5,4,1,1,1,4,素材の質がもう少し良いと嬉しいです。,I'd like slightly better material quality.
+R292,female,30s,3,5,4,3,5,5,2,1,2,2,4,3,3,,
+R293,male,50+,4,3,3,3,3,3,5,5,5,2,4,3,5,送料が高いと感じます。,The shipping fee feels expensive.
+R294,female,20s,4,3,4,5,5,5,3,3,5,2,3,4,5,価格が高めなので買うのを迷います。商品の写真をもっと増やしてほしいです。,"The prices are a bit high, so I hesitate to buy. Please add more product photos."
+R295,male,20s,2,2,2,4,3,5,4,2,4,2,3,3,3,他にない個性的なデザインが好きです。交換の手続きが分かりにくかったです。,I like the unique designs you can't find elsewhere. The exchange process was confusing.
+R296,female,20s,3,4,3,4,3,3,3,4,2,2,3,2,4,着用モデルの身長を載せてほしいです。,Please show the height of the models.
+R297,female,40s,5,3,3,2,2,3,5,5,5,4,4,4,5,素材の質がもう少し良いと嬉しいです。,I'd like slightly better material quality.
+R298,female,20s,1,1,3,5,4,4,4,4,4,3,3,2,3,,
+R299,female,50+,3,3,3,2,4,2,3,4,5,1,1,2,4,インフルエンサーとのコラボ商品が欲しいです。,I'd like collaboration items with influencers.
+R300,male,10s,4,2,3,2,3,3,3,3,3,4,1,3,2,セールをもっと頻繁にしてほしいです。送料が高いと感じます。,I'd like more frequent sales. The shipping fee feels expensive.
